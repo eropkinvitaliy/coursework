@@ -1,0 +1,14 @@
+{
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  },
+  "require-dev": {
+    "yiisoft/yii2-gii": "^2.0"
+  }
+}

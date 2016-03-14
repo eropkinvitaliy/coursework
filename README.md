@@ -34,3 +34,7 @@ composer install
 $ yii migrate --migrationPath=@yii/rbac/migrations
 
 $ yii migrate
+
+Логин: superuser
+
+Пароль: root
